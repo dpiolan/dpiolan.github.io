@@ -1,5 +1,4 @@
 ---
-  layout: openCV
   title: 基于openCV的答题卡识别方案
   author: dpiolan
   date: 2024-11-18 18:00:00 +0800
