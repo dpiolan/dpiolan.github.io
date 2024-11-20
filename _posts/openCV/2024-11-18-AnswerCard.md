@@ -6,6 +6,7 @@
   description: 使用opencv进行普遍的答题卡识别
   commit: true
   toc: true
+  math: true
   media_path: /img
   mermaid: true
 ---
